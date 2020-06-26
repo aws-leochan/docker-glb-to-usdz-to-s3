@@ -1,5 +1,5 @@
 # docker-glb-to-usdz-to-s3
-Docker Container to convert files from glb to usdz stored on Amazon S3
+This Docker Container converts files stored on Amazon S3 from glb to usdz format.
 
 # Example usage:
 ```
