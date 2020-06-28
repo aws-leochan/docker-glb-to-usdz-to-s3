@@ -1,6 +1,7 @@
 # docker-glb-to-usdz-to-s3
 This Docker Container converts files stored on Amazon S3 from glb to usdz format.
 
+*Note: This project is not officially supported by Amazon*
 # Example usage:
 ```
  docker run -e INPUT_GLB_S3_FILEPATH='myS3Bucket/myS3Folder/myModel.glb' \
